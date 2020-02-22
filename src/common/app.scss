@@ -1,0 +1,30 @@
+$body-color: red;
+
+body {
+  //color: $body-color;
+  background-color: #f3f3f3;
+}
+
+.wrapper{
+	background-color: white;
+	margin-top: 2%;
+}
+
+
+
+//React-CSS Styles
+.react_wrapper{
+
+	.react_img_styles{
+		height: 150px;
+	}
+}
+
+
+
+//Vue-CSS styles
+.vue_wrapper{
+	.vue_img_styles{
+		height: 150px;
+	}
+}
